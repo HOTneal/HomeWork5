@@ -19,4 +19,3 @@ private:
 	int numerator;
 	int denominator;
 };
-
