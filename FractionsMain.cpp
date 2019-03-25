@@ -104,8 +104,8 @@ int main()
 	cout << "Fraction2 \n";
 	Frac2.SetFraction();
 
-	Plus(Frac1, Frac2); //ñëîæåíèå
-	Minus(Frac1, Frac2); //âû÷èòàíèå
-	Multiply(Frac1, Frac2); //óìíîæåíèå
-	Comparison(Frac1, Frac2); //ñğàâíåíèå
+	Plus(Frac1, Frac2); //ÑĞ»Ğ¾Ğ¶ĞµĞ½Ğ¸Ğµ
+	Minus(Frac1, Frac2); //Ğ²Ñ‹Ñ‡Ğ¸Ñ‚Ğ°Ğ½Ğ¸Ğµ
+	Multiply(Frac1, Frac2); //ÑƒĞ¼Ğ½Ğ¾Ğ¶ĞµĞ½Ğ¸Ğµ
+	Comparison(Frac1, Frac2); //ÑÑ€Ğ°Ğ²Ğ½ĞµĞ½Ğ¸Ğµ
 }
